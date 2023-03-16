@@ -1,9 +1,9 @@
-1. [[1. Introduction|Introduction]]
-2. [[2. Worldbuilding|Worldbuilding: Crafting an Engaging Environment]]
-3. [[3. Understanding Conflicts|Understanding Conflicts]]
-4. [[4. The Story Circle|The Story Circle: A Flexible Story Structure]]
-5. [[5. Plot Points|Plot Points]]
-6. [[6. Creating Engaging Scenes and Adapting to Players' Choices|Creating Engaging Scenes and Adapting to Players' Choices]]
-7. [[7. Running the Game|Running the Game]]
-8. [[8. Reflecting on the Game|Reflecting on the Game]]
-9. [[9. Conclusions|Conclusions]]
+1. [introduction](chapters/1.%20Introduction.md)
+2. [Worldbuilding: Crafting an Engaging Environment](chapters/2.%20Worldbuilding.md)
+3. [Understanding Conflicts](chapters/3.%20Understanding%20Conflicts.md)
+4. [The Story Circle: A Flexible Story Structure](chapters/4.%20The%20Story%20Circle.md)
+5. [Plot Points](chapters/5.%20Plot%20Points.md)
+6. [Creating Engaging Scenes and Adapting to Players' Choices](chapters/6.%20Creating%20Engaging%20Scenes%20and%20Adapting%20to%20Players'%20Choices.md)
+7. [Running the Game](chapters/7.%20Running%20the%20Game.md)
+8. [Reflecting on the Game](chapters/8.%20Reflecting%20on%20the%20Game.md)
+9. [Conclusions](chapters/9.%20Conclusions.md)
